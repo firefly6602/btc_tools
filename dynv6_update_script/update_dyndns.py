@@ -113,8 +113,8 @@ def main():
         # set up the SMTP server
         smtp_server = "smtp.strato.de"
         port = 587  # for TLS
-        sender_email = "mail@rcane.eu"  # enter your address
-        password = "ivNcoRHfLFid29f"  # enter your email password
+        sender_email = ""  # enter your address
+        password = ""  # enter your email password
 
         # set up the message parameters
         subject = f"DynDNS Update"
